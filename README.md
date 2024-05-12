@@ -1,4 +1,4 @@
-# CS 135 Project 01: Logistic Regression for Image Classification
+# Logistic Regression for Image Classification
 
 ## Overview
 This project explores the application of logistic regression to classify images of handwritten digits (specifically the digits 8 and 9) and clothing items (trousers vs. dresses). The analysis includes preprocessing, model fitting, hyperparameter tuning, and evaluation using various metrics.
